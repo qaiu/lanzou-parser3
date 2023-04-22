@@ -1,5 +1,10 @@
 # lanzou-parser3
 
+**该项目已经停止维护请移步：**
+[蓝奏云-奶牛快传直接解析API](https://github.com/qaiu/lz-cow-api)
+接口兼容
+
+
 #### 介绍
 蓝奏云直链解析
 
